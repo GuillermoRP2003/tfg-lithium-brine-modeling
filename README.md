@@ -102,7 +102,6 @@ Para usar la herramienta se necesita:
 - Base termodinámica `pitzer.dat`.
 - Dependencias Python indicadas en `requirements.txt`.
 
-HEAD
 PHREEQC no se incluye en este repositorio. Debe instalarse por separado.
 =======
 PHREEQC no se incluye en este repositorio. Debe instalarse de forma independiente desde USGS o desde la distribucion correspondiente.
