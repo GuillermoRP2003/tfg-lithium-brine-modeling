@@ -1,0 +1,16 @@
+stage_id;stage_type;evap_L_s;reagent;reagent_param;phases
+PC1;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC2;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC3;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC4;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC5;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC6;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC7;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+PC8;pond;546250.;;;Halite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Epsomite|Schoenite|Leonite|Kainite|Huntite|Calcite|Aragonite|Magnesite|Dolomite          
+LIM1;reactor;0.;Ca(OH)2;1.;Brucite|Gypsum|Halite|Glauberite|Portlandite|Boric_acid,s|Borax|K2B4O7:4H2O|KB5O8:4H2O|NaB5O8:5H2O|NaBO2:4H2O|Teepleite
+H1;pond;448116.19700651;;;Halite|Sylvite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Schoenite|Leonite|Kainite|Carnallite|Epsomite|Bischofite
+H2;pond;448116.19700651;;;Halite|Sylvite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Schoenite|Leonite|Kainite|Carnallite|Epsomite|Bischofite
+H3;pond;448116.19700651;;;Halite|Sylvite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Schoenite|Leonite|Kainite|Carnallite|Epsomite|Bischofite
+K1;pond;113473.826040687;;;Halite|Sylvite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Schoenite|Leonite|Kainite|Carnallite|Epsomite|Bischofite
+C1;pond;91495.3261957616;;;Halite|Sylvite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Schoenite|Leonite|Kainite|Carnallite|Epsomite|Bischofite
+L1;pond;758.847735218173;;;Halite|Sylvite|Thenardite|Mirabilite|Glauberite|Gypsum|Anhydrite|Schoenite|Leonite|Kainite|Carnallite|Epsomite|Bischofite

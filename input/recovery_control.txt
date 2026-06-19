@@ -1,0 +1,5 @@
+variable;data
+target_freshwater_L_s;20.
+heating_temperature_C;80.
+extraction_stage_id;PC1
+reinjection_stage_id;PC4

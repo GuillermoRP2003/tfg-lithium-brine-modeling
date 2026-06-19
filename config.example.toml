@@ -1,0 +1,7 @@
+[phreeqc]
+# Copy this file to config.local.toml and edit the two paths for your machine.
+# You can also skip config.local.toml and define the environment variables:
+# PHREEQC_EXE and PHREEQC_DATABASE.
+
+exe = ""
+database = ""

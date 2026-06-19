@@ -1,0 +1,6 @@
+variable;enabled;min;max;step
+months;1.;1.;2.;1.
+temperature;1.;10.;90.;20.
+evap_factor;1.;0.948;0.948;1.
+mg_removal;1.;0.99;0.99;1.
+retention_r;1.;0.2;0.2;0.2
