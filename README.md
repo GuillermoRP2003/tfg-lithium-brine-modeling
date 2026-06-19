@@ -3,6 +3,7 @@
 Herramienta conceptual para modelizar un tren evaporítico de salmueras de litio mediante una interfaz Excel, scripts Python y PHREEQC.
 
 Este repositorio contiene la implementación necesaria para ejecutar simulaciones del tren evaporítico y del módulo auxiliar de recuperación de agua mediante Excel, Python y PHREEQC. No obstante, dado que la herramienta combina varios elementos externos —macros de Excel, archivos TXT de entrada, scripts Python, configuración local de PHREEQC y carpetas de salida— se recomienda trabajar en un entorno de desarrollo como Visual Studio Code y, si es posible, apoyarse en una extensión de IA como Codex o equivalente. Este apoyo puede facilitar la preparación inicial del espacio de trabajo, la comprobación de rutas, la instalación de dependencias y la resolución de errores locales antes de comenzar a probar la herramienta.
+
 ---
 
 ## 1. Qué contiene este repositorio
