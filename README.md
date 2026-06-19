@@ -47,6 +47,7 @@ Las carpetas `runs/` y `results/` se generan al ejecutar el modelo y no se versi
 - Dependencias Python indicadas en `requirements.txt`.
 
 PHREEQC no se incluye en este repositorio. Debe instalarse de forma independiente desde USGS o desde la distribucion correspondiente.
+Windows 64-bit: phreeqc-3.8.6-17100-x64.msi - Executable, database files, examples, PDF documentation
 
 ## Instalacion
 
